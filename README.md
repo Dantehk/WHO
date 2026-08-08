@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=8B0000&width=500&lines=Oh,+Kris..." />
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/ea/3b/cf/ea3bcf52752101f1903f64bc058105e0.jpg" width="750" alt="Deltarune Banner"/>
